@@ -1,0 +1,16 @@
+{
+  "name": "basic-api",
+  "version": "1.0.0",
+  "description": "Demo for Torc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan C. Luqui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^5.1.1",
+    "mongodb": "^4.9.0"
+  }
+}
